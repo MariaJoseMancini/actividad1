@@ -1,0 +1,34 @@
+body{
+    background-color: #FFDEAD;
+}
+header{
+    background-color: #d59939;
+    color:white;
+    text-align: center;
+}
+.mascotas{
+    background-color: blanchedalmond;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+}
+#subtituloPrim{
+    text-align: justify;
+}
+#animales{
+    height:100%;
+    width: 100%;
+}
+.salud{
+    background-color: blanchedalmond;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+}
+#subtituloSecun{
+    text-align: justify;
+}
+#colesterol{
+    height:100%;
+    width: 100%;
+}
